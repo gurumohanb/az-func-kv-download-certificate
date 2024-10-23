@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "BGW_BNP_CERT_TEST": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7253",
+      "launchBrowser": false
+    }
+  }
+}
